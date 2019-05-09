@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "multi-defend",
+"dataUrl": "306fed603c7edce0395207b8add2a1f6.unityweb",
+"wasmCodeUrl": "5ac0685598cfbaf8a145268e1e69f0c9.unityweb",
+"wasmFrameworkUrl": "1b1654cb223483574907e2a281140077.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728",
+"cacheControl": {"default": "must-revalidate"}
+}
